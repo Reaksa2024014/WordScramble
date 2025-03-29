@@ -1,0 +1,10 @@
+carrot
+broccoli
+tomato
+potato
+onion
+cabbage
+spinach
+cucumber
+pumpkin
+beetroot

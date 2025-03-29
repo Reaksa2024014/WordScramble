@@ -1,0 +1,9 @@
+doctor
+engineer
+teacher
+lawyer
+scientist
+nurse
+chef
+pilot
+policeman
